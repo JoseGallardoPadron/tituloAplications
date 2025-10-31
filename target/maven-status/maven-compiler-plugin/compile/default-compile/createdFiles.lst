@@ -1,0 +1,16 @@
+pe\edu\vallegrande\VaccineAplication\services\VaccineApplicationsService.class
+pe\edu\vallegrande\VaccineAplication\repository\VaccineApplicationsRepository.class
+pe\edu\vallegrande\VaccineAplication\controller\VaccineApplicationsController.class
+pe\edu\vallegrande\VaccineAplication\dto\CycleLifeDTO.class
+pe\edu\vallegrande\VaccineAplication\config\CorsConfig.class
+pe\edu\vallegrande\VaccineAplication\webclient\config\WebClientConfig.class
+pe\edu\vallegrande\VaccineAplication\config\SecurityConfig.class
+pe\edu\vallegrande\VaccineAplication\VaccineAplicationApplication.class
+pe\edu\vallegrande\VaccineAplication\exception\GlobalExceptionHandler.class
+pe\edu\vallegrande\VaccineAplication\services\VaccineApplicationsServiceImpl.class
+pe\edu\vallegrande\VaccineAplication\config\SecurityConfig$1.class
+pe\edu\vallegrande\VaccineAplication\webclient\client\CycleLifeClient.class
+pe\edu\vallegrande\VaccineAplication\config\CustomAuthenticationToken.class
+pe\edu\vallegrande\VaccineAplication\dto\VaccineApplicationsDTO.class
+pe\edu\vallegrande\VaccineAplication\model\VaccineApplicationsModel.class
+pe\edu\vallegrande\VaccineAplication\config\AuthContextWebFilter.class

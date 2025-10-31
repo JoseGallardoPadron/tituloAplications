@@ -1,0 +1,4 @@
+pe\edu\vallegrande\VaccineAplication\VaccineAplicationApplicationTests.class
+pe\edu\vallegrande\VaccineAplication\controller\VaccineApplicationsControllerTest.class
+pe\edu\vallegrande\VaccineAplication\integration\CycleLifeClientMockitoTest.class
+pe\edu\vallegrande\VaccineAplication\service\VaccineApplicationsServiceImplTest.class
